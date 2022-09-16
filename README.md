@@ -39,7 +39,11 @@ cowsay "How to reach me:"
 
 #### How to reach me:
 
-- :shipit: Twitter: <a href="https://twitter.com/kuflievskiy" title="https://twitter.com/kuflievskiy" target="_blank">https://twitter.com/kuflievskiy</a>
-- :shipit: Email: <a href="mailto:kuflievskiy@gmail.com" title="kuflievskiy@gmail.com">kuflievskiy@gmail.com</a>
-- :shipit: Skype: <a href="skype:kuf.alex?chat" title="kuf.alex">kuf.alex</a>
+- [x] Email: <a href="mailto:kuflievskiy@gmail.com" title="kuflievskiy@gmail.com" target="_blank">kuflievskiy@gmail.com</a>
+- [x] Telegram: <a href="https://t.me/kuflievskiy" title="@kuflievskiy" target="_blank">https://t.me/kuflievskiy</a>
+- [x] Twitter: <a href="https://twitter.com/kuflievskiy" title="https://twitter.com/kuflievskiy" target="_blank">https://twitter.com/kuflievskiy</a>
+- [x] Facebook: <a href="https://www.facebook.com/kuflievskiy" title="https://www.facebook.com/kuflievskiy" target="_blank">https://www.facebook.com/kuflievskiy</a>
+- [x] Github <a href="https://github.com/kuflievskiy" title="https://github.com/kuflievskiy">https://github.com/kuflievskiy</a>
+- [x] Skype: <a href="skype:kuf.alex?chat" title="kuf.alex" target="_blank">kuf.alex</a>
+
 
