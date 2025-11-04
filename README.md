@@ -40,6 +40,7 @@ cowsay "How to reach me:"
 #### How to reach me:
 
 - [x] Github <a href="https://github.com/kuflievskiy" title="https://github.com/oleksii-kufliievskyi">https://github.com/oleksii-kufliievskyi</a>
+- [x] Drupal.org <a href="https://www.drupal.org/u/kufliievskyi" title="https://www.drupal.org/u/kufliievskyi">https://www.drupal.org/u/kufliievskyi</a>
 
 
 #### Technologies/tools I use:
@@ -62,17 +63,4 @@ cowsay "How to reach me:"
 <img align="left"  alt="VIM" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/242px-Vimlogo.svg.png" />
 <img align="left"  alt="Xdebug" width="32px" src="https://xdebug.org/images/favicon.png" />
 <img align="left"  alt="Docker" width="32px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />
-<img align="left"  alt="Docker Compose" width="32px" src="https://github.com/docker/compose/blob/v2/logo.png?raw=true" />
-
-
-<br style="clear: both;" />
-
-#### GitHub Stats
-
-<!--
-https://github.com/anuraghazra/github-readme-stats/
--->
-
-![github stats](https://github-readme-stats.vercel.app/api?username=kuflievskiy&show_icons=true&theme=vue-dark) 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuflievskiy&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left"  alt="Docker Compose" width="32px" src="https://raw.githubusercontent.com/docker/compose/main/logo.png" />
